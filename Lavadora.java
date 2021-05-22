@@ -2,7 +2,7 @@ public class Lavadora extends Electrodomestico {
     int carga = 5;
 
     public Lavadora() {
-        super()
+        super();
     }
 
     public Lavadora(int precio, int peso) {
